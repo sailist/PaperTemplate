@@ -1,3 +1,4 @@
+from https://www.overleaf.com/latex/templates/cvpr-2018-template/qgmrfntfbqns
 
 To make a sample CVPR paper, copy the contents of this directory
 somewhere, and type

@@ -17,3 +17,5 @@
 *.fls
 *.log
 *.fdb_latexmk
+*.synctex.gz
+*.brf
